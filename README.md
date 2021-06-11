@@ -21,6 +21,7 @@
 * 特殊な2項間漸化式1
 `paiza/dp_primer/dp_primer_recursive_formula_step2/`
 
+
 ## グリッド版ダイクストラ問題セット
 
 * グリッド上の移動
@@ -29,3 +30,8 @@
 * 幅優先探索 - 迷路
 `paiza/dgrid_dijkstra/d1/`
 
+
+## 素朴なソートアルゴリズムメニュー
+
+* 挿入ソート
+`paiza/sort_naive/sort_naive__insertion`
