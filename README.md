@@ -35,3 +35,6 @@
 
 * 挿入ソート
 `paiza/sort_naive/sort_naive__insertion`
+
+* 選択ソート
+`paiza/sort_naive/sort_naive__selection`
