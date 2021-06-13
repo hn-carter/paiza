@@ -38,3 +38,6 @@
 
 * 選択ソート
 `paiza/sort_naive/sort_naive__selection`
+
+* バブルソート
+`paiza/sort_naive/sort_naive__bubble`
