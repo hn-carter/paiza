@@ -41,3 +41,8 @@
 
 * バブルソート
 `paiza/sort_naive/sort_naive__bubble`
+
+## 効率的なソートアルゴリズムメニュー
+
+* シェルソート
+`/paiza/sort_efficient/sort_efficient__shell`
