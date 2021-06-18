@@ -30,6 +30,8 @@
 * 幅優先探索 - 迷路
 `paiza/dgrid_dijkstra/d1/`
 
+* ダイクストラ法 - 最短経路のコスト
+`paiza/dgrid_dijkstra/d2/`
 
 ## 素朴なソートアルゴリズムメニュー
 
@@ -45,4 +47,4 @@
 ## 効率的なソートアルゴリズムメニュー
 
 * シェルソート
-`/paiza/sort_efficient/sort_efficient__shell`
+`paiza/sort_efficient/sort_efficient__shell`
