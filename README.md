@@ -48,3 +48,6 @@
 
 * シェルソート
 `paiza/sort_efficient/sort_efficient__shell`
+
+* マージソート
+`paiza/sort_efficient/sort_efficient__merge`
