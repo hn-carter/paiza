@@ -33,6 +33,7 @@
 * ダイクストラ法 - 最短経路のコスト
 `paiza/dgrid_dijkstra/d2/`
 
+
 ## 素朴なソートアルゴリズムメニュー
 
 * 挿入ソート
@@ -44,6 +45,7 @@
 * バブルソート
 `paiza/sort_naive/sort_naive__bubble`
 
+
 ## 効率的なソートアルゴリズムメニュー
 
 * シェルソート
@@ -51,3 +53,8 @@
 
 * マージソート
 `paiza/sort_efficient/sort_efficient__merge`
+
+## クエリメニュー
+
+* 指定の位置への要素の追加
+`paiza/query_primer/query_primer__single_insertion`
