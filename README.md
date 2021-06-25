@@ -54,7 +54,11 @@
 * マージソート
 `paiza/sort_efficient/sort_efficient__merge`
 
+
 ## クエリメニュー
 
 * 指定の位置への要素の追加
 `paiza/query_primer/query_primer__single_insertion`
+
+* 先頭の要素の削除(query)
+`paiza/query_primer/query_primer__multi_pop`
