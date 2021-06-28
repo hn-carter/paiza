@@ -62,3 +62,6 @@
 
 * 先頭の要素の削除(query)
 `paiza/query_primer/query_primer__multi_pop`
+
+* 連想配列(query)
+`paiza/query_primer/query_primer__map_normal`
