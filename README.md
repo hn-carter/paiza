@@ -65,3 +65,7 @@
 
 * 連想配列(query)
 `paiza/query_primer/query_primer__map_normal`
+
+* ソートと検索(query)
+`paiza/query_primer/query_primer__sort_find_multi`
+
