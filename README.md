@@ -33,6 +33,8 @@
 * ダイクストラ法 - 最短経路のコスト
 `paiza/dgrid_dijkstra/d2/`
 
+* ダイクストラ法 - 経路復元
+`paiza/dgrid_dijkstra/d3/`
 
 ## 素朴なソートアルゴリズムメニュー
 
