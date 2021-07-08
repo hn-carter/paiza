@@ -21,6 +21,8 @@
 * 特殊な2項間漸化式1
 `paiza/dp_primer/dp_primer_recursive_formula_step2/`
 
+* 特殊な2項間漸化式2
+`paiza/dp_primer/recursive_formula_step3/`
 
 ## グリッド版ダイクストラ問題セット
 
