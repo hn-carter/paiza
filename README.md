@@ -27,6 +27,9 @@
 * 3項間漸化式1
 `paiza/dp_primer/recursive_formula_step4/`
 
+* 3項間漸化式2
+`paiza/dp_primer/recursive_formula_boss/`
+
 ## グリッド版ダイクストラ問題セット
 
 * グリッド上の移動
