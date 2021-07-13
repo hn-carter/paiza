@@ -30,6 +30,7 @@
 * 3項間漸化式2
 `paiza/dp_primer/recursive_formula_boss/`
 
+
 ## グリッド版ダイクストラ問題セット
 
 * グリッド上の移動
@@ -46,6 +47,10 @@
 
 * 拡張ダイクストラ - コストを0にできるチケット
 `paiza/dgrid_dijkstra/d4/`
+
+* ゴールのマスが複数
+`paiza/dgrid_dijkstra/d5/`
+
 
 ## 素朴なソートアルゴリズムメニュー
 
