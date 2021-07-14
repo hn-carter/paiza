@@ -30,6 +30,9 @@
 * 3項間漸化式2
 `paiza/dp_primer/recursive_formula_boss/`
 
+* 階段の上り方 1
+`paiza/dp_primer/stairs_step0/`
+
 
 ## グリッド版ダイクストラ問題セット
 
