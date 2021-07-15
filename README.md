@@ -33,6 +33,9 @@
 * 階段の上り方 1
 `paiza/dp_primer/stairs_step0/`
 
+* 階段の上り方 2
+`paiza/dp_primer/stairs_step1/`
+
 
 ## グリッド版ダイクストラ問題セット
 
