@@ -39,6 +39,10 @@
 * 階段の上り方 3
 `paiza/dp_primer/stairs_boss/`
 
+* 最安値を達成するには 1
+`paiza/dp_primer/apples_step0/`
+
+
 ## グリッド版ダイクストラ問題セット
 
 * グリッド上の移動
