@@ -42,6 +42,9 @@
 * 最安値を達成するには 1
 `paiza/dp_primer/apples_step0/`
 
+* 最安値を達成するには 2
+`paiza/dp_primer/apples_step1/`
+
 
 ## グリッド版ダイクストラ問題セット
 
