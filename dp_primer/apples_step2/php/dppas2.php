@@ -131,17 +131,7 @@ function computeData($dt) {
     $dp = array();
     // 0個 は 0円
     $dp[] = 0;
-    // りんごの個数+z-1までの最安値を求めるループ
-    for ($i = 1, $max = $dt->n + $dt->z; $i < $max; $i++) {
-        $minPrice = PHP_INT_MAX;
-        // りんごの販売単位数ループ
-        for ($j = 0, $maxJ = count($dt->pack); $j < $maxJ; $j++) {
-            // i個のりんごを買うのに最小の金額を求める
-            if ($i > $dt->pack[$j]) {
-                $dp[] = min($minPrice, $dp[$i-$dt->pack]);
-                break;
-            }
-        }
+    for ($i = 1, $max = $dt->n + $dt->y; $i < $max; $i++) {
         if ($i <= $dt->x) {
             $dp[] = $dt->a;
         } else if ($i <= $dt->y) {
