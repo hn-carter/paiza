@@ -51,6 +51,9 @@
 * 【最安値】最安値を達成するには 4
 `paiza/dp_primer/apples_boss/`
 
+* 最長増加連続部分列
+`paiza/dp_primer/lis_continuous_step0/`
+
 
 ## グリッド版ダイクストラ問題セット
 
