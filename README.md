@@ -54,8 +54,11 @@
 * 最長増加連続部分列
 `paiza/dp_primer/lis_continuous_step0/`
 
-* 【連続列】最長減少連続部分列 
+* 【連続列】最長減少連続部分列
 `paiza/dp_primer/lis_continuous_boss/`
+
+* 最長部分増加列
+`paiza/dp_primer/lis_step0/`
 
 
 ## グリッド版ダイクストラ問題セット
