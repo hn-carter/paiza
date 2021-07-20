@@ -60,6 +60,9 @@
 * 最長部分増加列
 `paiza/dp_primer/lis_step0/`
 
+* 【部分列】最長減少部分列
+`paiza/dp_primer/lis_boss/`
+
 
 ## グリッド版ダイクストラ問題セット
 
