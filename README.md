@@ -63,6 +63,9 @@
 * 【部分列】最長減少部分列
 `paiza/dp_primer/lis_boss/`
 
+* 部分和問題 1 
+`paiza/dp_primer/partial_sums_step0/`
+
 
 ## グリッド版ダイクストラ問題セット
 
