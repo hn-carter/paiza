@@ -21,6 +21,9 @@
 * 2項間漸化式 1
 `paiza/dp_primer/recursive_formula_step0/`
 
+* 2項間漸化式 2
+`paiza/dp_primer/recursive_formula_step1/`
+
 * 特殊な2項間漸化式1
 `paiza/dp_primer/dp_primer_recursive_formula_step2/`
 
