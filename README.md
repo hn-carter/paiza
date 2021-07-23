@@ -69,6 +69,9 @@
 * 部分和問題 2
 `paiza/dp_primer/partial_sums_step1/`
 
+* 部分和問題 3
+`paiza/dp_primer/partial_sums_step2/`
+
 
 ## グリッド版ダイクストラ問題セット
 
