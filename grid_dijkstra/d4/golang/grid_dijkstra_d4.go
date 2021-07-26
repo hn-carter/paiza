@@ -463,7 +463,7 @@ func main() {
 	}
 	// たどった道筋を出力する
 	// paiza問題では不要なためコメントアウトしている
-	outputRoute(board)
+	//outputRoute(board)
 
 	return
 }
