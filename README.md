@@ -129,6 +129,13 @@
 * 指定の位置への要素の追加
 `paiza/query_primer/query_primer__single_insertion`
 
+* 指定要素の検索
+`paiza/query_primer/single_search`
+
+* 指定要素の検索 (query)
+`paiza/query_primer/multi_search`
+
+
 * 先頭の要素の削除(query)
 `paiza/query_primer/query_primer__multi_pop`
 
