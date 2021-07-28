@@ -135,6 +135,8 @@
 * 指定要素の検索 (query)
 `paiza/query_primer/multi_search`
 
+* 先頭の要素の削除
+`paiza/query_primer/single_pop`
 
 * 先頭の要素の削除(query)
 `paiza/query_primer/query_primer__multi_pop`
