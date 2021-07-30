@@ -153,3 +153,6 @@
 * ソートと検索(query)
 `paiza/query_primer/query_primer__sort_find_multi`
 
+* アイドルグループ
+`paiza/query_primer/idol_group`
+
