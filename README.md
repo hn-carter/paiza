@@ -156,3 +156,7 @@
 * アイドルグループ
 `paiza/query_primer/idol_group`
 
+* 歴史を作る時間
+`paiza/query_primer/history`
+
+
