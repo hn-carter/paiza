@@ -159,4 +159,6 @@
 * 歴史を作る時間
 `paiza/query_primer/history`
 
+* 銀行
+`paiza/query_primer/bank`
 
