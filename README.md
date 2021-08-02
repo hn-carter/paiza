@@ -162,3 +162,6 @@
 * 銀行
 `paiza/query_primer/bank`
 
+* 経理
+`paiza/query_primer/accounting`
+
