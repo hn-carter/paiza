@@ -165,3 +165,6 @@
 * 経理
 `paiza/query_primer/accounting`
 
+* Vtuber
+`paiza/query_primer/vtuber`
+
