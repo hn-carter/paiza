@@ -168,3 +168,6 @@
 * Vtuber
 `paiza/query_primer/vtuber`
 
+* 累積和
+`paiza/query_primer/cumulative_sum`
+
