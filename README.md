@@ -171,3 +171,7 @@
 * 累積和
 `paiza/query_primer/cumulative_sum`
 
+* 二次元累積和
+`paiza/query_primer/two_dimensions_cumulative_sum`
+
+
