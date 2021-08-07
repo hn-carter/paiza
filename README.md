@@ -174,4 +174,6 @@
 * 二次元累積和
 `paiza/query_primer/two_dimensions_cumulative_sum`
 
+* 二次元区間和
+`paiza/query_primer/two_dimensions_interval_sum`
 
