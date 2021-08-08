@@ -177,3 +177,6 @@
 * 二次元区間和
 `paiza/query_primer/two_dimensions_interval_sum`
 
+* 平方分割のバケット
+`paiza/query_primer/squar_division_bucket`
+
