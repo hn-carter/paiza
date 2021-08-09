@@ -178,5 +178,9 @@
 `paiza/query_primer/two_dimensions_interval_sum`
 
 * 平方分割のバケット
-`paiza/query_primer/squar_division_bucket`
+`paiza/query_primer/square_division_bucket`
+
+* 平方分割
+`paiza/query_primer/square_division`
+
 
