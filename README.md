@@ -183,4 +183,6 @@
 * 平方分割
 `paiza/query_primer/square_division`
 
+* 'I' の数
+`paiza/query_primer/word_count`
 
