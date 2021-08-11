@@ -186,3 +186,6 @@
 * 'I' の数
 `paiza/query_primer/word_count`
 
+* ドーナツ
+`paiza/query_primer/donut`
+
