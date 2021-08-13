@@ -189,6 +189,9 @@
 * ドーナツ
 `paiza/query_primer/donut`
 
+* 点の幅
+`paiza/query_primer/range_of_score`
+
 
 ## Aランクレベルアップメニュー
 
