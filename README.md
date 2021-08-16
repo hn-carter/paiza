@@ -198,3 +198,6 @@
 * 盤面の情報取得
 `paiza/a_rank_level_up_problems/snake_map_step1`
 
+* 盤面の情報変更
+`paiza/a_rank_level_up_problems/snake_map_step2`
+
