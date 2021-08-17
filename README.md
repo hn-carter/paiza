@@ -201,3 +201,6 @@
 * 盤面の情報変更
 `paiza/a_rank_level_up_problems/snake_map_step2`
 
+* マップの判定・横
+`paiza/a_rank_level_up_problems/snake_map_step3`
+
