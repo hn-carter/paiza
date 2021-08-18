@@ -207,4 +207,6 @@
 * マップの判定・縦
 `paiza/a_rank_level_up_problems/snake_map_step4`
 
+* マップの判定・縦横
+`paiza/a_rank_level_up_problems/snake_map_boss`
 
