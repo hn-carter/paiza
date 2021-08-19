@@ -210,3 +210,6 @@
 * マップの判定・縦横
 `paiza/a_rank_level_up_problems/snake_map_boss`
 
+* マップからの座標取得
+`paiza/a_rank_level_up_problems/snake_move_step1`
+
