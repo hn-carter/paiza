@@ -13,7 +13,7 @@ import Foundation
 struct Position {
     var Y: Int
     var X: Int
-    // 渡された方向に維持雨する
+    // 渡された方向に移動する
     mutating func Move(vec: Position) {
         self.Y += vec.Y
         self.X += vec.X
