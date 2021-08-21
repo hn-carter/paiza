@@ -216,4 +216,6 @@
 * 座標系での移動・方角
 `paiza/a_rank_level_up_problems/snake_move_step2`
 
+* 座標系での移動・向き
+`paiza/a_rank_level_up_problems/snake_move_step3`
 
