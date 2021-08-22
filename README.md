@@ -222,3 +222,6 @@
 * 座標系での規則的な移動
 `paiza/a_rank_level_up_problems/snake_move_step4`
 
+* 座標系での向きの変わる移動
+`paiza/a_rank_level_up_problems/snake_move_boss`
+
