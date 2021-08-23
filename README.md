@@ -225,3 +225,6 @@
 * 座標系での向きの変わる移動
 `paiza/a_rank_level_up_problems/snake_move_boss`
 
+* 移動が可能かの判定・方角
+`paiza/a_rank_level_up_problems/snake_mapmove_step1`
+
