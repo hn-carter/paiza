@@ -228,3 +228,6 @@
 * 移動が可能かの判定・方角
 `paiza/a_rank_level_up_problems/snake_mapmove_step1`
 
+* 移動が可能かの判定・方向
+`paiza/a_rank_level_up_problems/snake_mapmove_step2`
+
