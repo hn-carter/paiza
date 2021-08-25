@@ -231,3 +231,6 @@
 * 移動が可能かの判定・方向
 `paiza/a_rank_level_up_problems/snake_mapmove_step2`
 
+* 移動が可能かの判定・複数回の移動
+`paiza/a_rank_level_up_problems/snake_mapmove_step3`
+
