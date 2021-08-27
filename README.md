@@ -237,3 +237,6 @@
 * 移動が可能かの判定・幅のある移動
 `paiza/a_rank_level_up_problems/snake_mapmove_step4`
 
+* 幅のある移動
+`paiza/a_rank_level_up_problems/snake_mapmove_step5`
+
