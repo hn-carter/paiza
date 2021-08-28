@@ -240,3 +240,7 @@
 * 幅のある移動
 `paiza/a_rank_level_up_problems/snake_mapmove_step5`
 
+* 時刻に伴う移動
+`paiza/a_rank_level_up_problems/snake_mapmove_step6`
+
+
