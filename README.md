@@ -246,3 +246,6 @@
 * へび
 `paiza/a_rank_level_up_problems/snake_mapmove_boss`
 
+* 1 マスの陣取り
+`paiza/a_rank_level_up_problems/camp_step1`
+
