@@ -34,7 +34,7 @@ struct World {
                     sy = y
                     sx = x
                 }
-            }    
+            }
         }
         // 4方向に陣地拡張
         let able: [Position] = [Position(Y: -1, X: 0), Position(Y: 0, X: 1),
