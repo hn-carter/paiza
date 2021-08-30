@@ -252,3 +252,7 @@
 * 1マスの陣取り2
 `paiza/a_rank_level_up_problems/camp_step2`
 
+* 陣取りの結末
+`paiza/a_rank_level_up_problems/camp_step3`
+
+
