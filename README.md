@@ -255,4 +255,6 @@
 * 陣取りの結末
 `paiza/a_rank_level_up_problems/camp_step3`
 
+* 陣取りの手間
+`paiza/a_rank_level_up_problems/camp_step4`
 
