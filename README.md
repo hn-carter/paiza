@@ -258,3 +258,6 @@
 * 陣取りの手間
 `paiza/a_rank_level_up_problems/camp_step4`
 
+* 陣取りのターン数
+`paiza/a_rank_level_up_problems/camp_step5`
+
