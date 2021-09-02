@@ -261,3 +261,6 @@
 * 陣取りのターン数
 `paiza/a_rank_level_up_problems/camp_step5`
 
+* 陣取りゲーム
+`paiza/a_rank_level_up_problems/camp_boss`
+
