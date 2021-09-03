@@ -267,3 +267,6 @@
 * 裏返せる可能性（縦横）
 `paiza/a_rank_level_up_problems/pincerattack_step1`
 
+* リバーシの操作（縦横）
+`paiza/a_rank_level_up_problems/pincerattack_step2`
+
