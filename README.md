@@ -276,3 +276,6 @@
 * リバーシの操作（斜め）
 `paiza/a_rank_level_up_problems/pincerattack_step4`
 
+* リバーシの操作
+`paiza/a_rank_level_up_problems/pincerattack_step5`
+
