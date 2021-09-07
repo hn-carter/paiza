@@ -279,3 +279,6 @@
 * リバーシの操作
 `paiza/a_rank_level_up_problems/pincerattack_step5`
 
+* いびつなひとりリバーシ（１ターン）
+`paiza/a_rank_level_up_problems/pincerattack_step6`
+
