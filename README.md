@@ -282,3 +282,6 @@
 * いびつなひとりリバーシ（１ターン）
 `paiza/a_rank_level_up_problems/pincerattack_step6`
 
+* いびつなひとりリバーシ
+`paiza/a_rank_level_up_problems/pincerattack_step7`
+
