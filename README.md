@@ -285,3 +285,6 @@
 * いびつなひとりリバーシ
 `paiza/a_rank_level_up_problems/pincerattack_step7`
 
+* いびつなリバーシ対戦（２人）
+`paiza/a_rank_level_up_problems/pincerattack_step8`
+
