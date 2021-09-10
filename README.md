@@ -288,3 +288,6 @@
 * いびつなリバーシ対戦（２人）
 `paiza/a_rank_level_up_problems/pincerattack_step8`
 
+* いびつなリバーシ対戦
+`paiza/a_rank_level_up_problems/pincerattack_boss`
+
