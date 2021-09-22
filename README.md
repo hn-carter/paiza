@@ -309,3 +309,6 @@
 * 区間の積
 `paiza/a_rank_level_up_problems/twopointers_boss`
 
+* 規則的な数列の和
+`paiza/a_rank_level_up_problems/calculation_exchange_700`
+
