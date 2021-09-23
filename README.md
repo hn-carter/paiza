@@ -312,3 +312,6 @@
 * 規則的な数列の和
 `paiza/a_rank_level_up_problems/calculation_exchange_700`
 
+* べき乗の計算
+`paiza/a_rank_level_up_problems/calculation_step2`
+
