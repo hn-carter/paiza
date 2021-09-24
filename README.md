@@ -315,3 +315,6 @@
 * べき乗の計算
 `paiza/a_rank_level_up_problems/calculation_step2`
 
+* 素数判定
+`paiza/a_rank_level_up_problems/calculation_step3`
+
