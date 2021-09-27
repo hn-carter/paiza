@@ -321,3 +321,6 @@
 * 最大公約数
 `paiza/a_rank_level_up_problems/calculation_boss`
 
+* 隣接行列
+`paiza/a_rank_level_up_problems/graph_step1`
+
