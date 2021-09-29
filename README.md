@@ -324,3 +324,6 @@
 * 隣接行列
 `paiza/a_rank_level_up_problems/graph_step1`
 
+* 隣接リスト
+`paiza/a_rank_level_up_problems/graph_step2`
+
