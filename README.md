@@ -330,3 +330,6 @@
 * 有向グラフの隣接行列と隣接リスト
 `paiza/a_rank_level_up_problems/graph_step3`
 
+* 重みあり有向グラフの隣接行列と隣接リスト
+`paiza/a_rank_level_up_problems/graph_step4`
+
