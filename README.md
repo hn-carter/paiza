@@ -336,3 +336,6 @@
 * 一方通行（グラフ上の移動）
 `paiza/a_rank_level_up_problems/graph_step5`
 
+* りんご拾い（情報を持ちながらの移動）
+`paiza/a_rank_level_up_problems/graph_step6`
+
