@@ -339,3 +339,6 @@
 * りんご拾い（情報を持ちながらの移動）
 `paiza/a_rank_level_up_problems/graph_step6`
 
+* 連結の判定
+`paiza/a_rank_level_up_problems/graph_boss`
+
