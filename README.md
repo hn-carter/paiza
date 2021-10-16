@@ -342,3 +342,10 @@
 * 連結の判定
 `paiza/a_rank_level_up_problems/graph_boss`
 
+
+## 二分探索メニュー
+
+* 値の探索
+`paiza/binary_search/basic_step0`
+
+
