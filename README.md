@@ -348,4 +348,6 @@
 * 値の探索
 `paiza/binary_search/basic_step0`
 
+* lower_bound
+`paiza/binary_search/basic_step1`
 
