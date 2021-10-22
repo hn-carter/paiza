@@ -351,3 +351,5 @@
 * lower_bound
 `paiza/binary_search/basic_step1`
 
+* upper_bound
+`paiza/binary_search/basic_step2`
