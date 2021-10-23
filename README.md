@@ -353,3 +353,7 @@
 
 * upper_bound
 `paiza/binary_search/basic_step2`
+
+* ある範囲に含まれている整数の個数
+`paiza/binary_search/basic_boss`
+
