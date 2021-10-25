@@ -357,3 +357,6 @@
 * ある範囲に含まれている整数の個数
 `paiza/binary_search/basic_boss`
 
+* パイプを切り出そう
+`paiza/binary_search/application_step0`
+
