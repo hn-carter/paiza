@@ -10,7 +10,7 @@
 ## スキルチェック見本問題セット
 
 * 長テーブルのうなぎ屋
-[`paiza/skillcheck_sample/long_table/`](paiza/skillcheck_sample/long_table/)
+[`paiza/skillcheck_sample/long_table/`](skillcheck_sample/long_table)
 
 * じゃんけんの手の出し方
 `paiza/skillcheck_sample/janken/`
