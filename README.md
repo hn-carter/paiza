@@ -360,6 +360,8 @@
 * パイプを切り出そう
 [`paiza/binary_search/application_step0`](binary_search/application_step0)
 
+* 効率よく盗もう
+[`paiza/binary_search/application_step1`](binary_search/application_step1)
 
 ## スタック・キューメニュー 
 
