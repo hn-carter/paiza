@@ -366,6 +366,10 @@
 * 太巻きを分けよう (おなかペコペコ)
 [`paiza/binary_search/application_step2`](binary_search/application_step2)
 
+* 太巻きを分けよう (おなかいっぱい)
+[`paiza/binary_search/application_step3`](binary_search/application_step3)
+
+
 ## スタック・キューメニュー 
 
 * スタック・キュー実装編( 共通問題 ) step 1
