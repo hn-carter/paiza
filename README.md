@@ -369,6 +369,9 @@
 * 太巻きを分けよう (おなかいっぱい)
 [`paiza/binary_search/application_step3`](binary_search/application_step3)
 
+* 長い長い数列
+[`paiza/binary_search/application_boss`](binary_search/application_boss)
+
 
 ## スタック・キューメニュー 
 
