@@ -20,13 +20,15 @@ func main() {
     // 動的計画法で漸化式を計算
     var dp: [Int] = [Int](repeating: 0, count: k+1)
     dp[1] = x
-    for i in 2...k {
-        if (i % 2) == 0 {
-            // 偶数
-            dp[i] = dp[i-1] + d2
-        } else {
-            // 奇数
-            dp[i] = dp[i-1] + d1
+    if k > 1 {
+        for i in 2...k {
+            if (i % 2) == 0 {
+                // 偶数
+                dp[i] = dp[i-1] + d2
+            } else {
+                // 奇数
+                dp[i] = dp[i-1] + d1
+            }
         }
     }
     // 結果出力
