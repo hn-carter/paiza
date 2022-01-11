@@ -386,3 +386,7 @@
 
 [`paiza/dateset/leap_year`](paiza/dateset/leap_year)
 
+* 西暦の和暦変換
+
+[`paiza/dateset/ad_to_era`](paiza/dateset/ad_to_era)
+
