@@ -390,3 +390,7 @@
 
 [`paiza/dateset/ad_to_era`](paiza/dateset/ad_to_era)
 
+* 西暦の和暦変換2
+
+[`paiza/dateset/ad_to_era2`](paiza/dateset/ad_to_era2)
+
