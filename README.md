@@ -394,3 +394,7 @@
 
 [`paiza/dateset/ad_to_era2`](paiza/dateset/ad_to_era2)
 
+* 月の日数
+
+[`paiza/dateset/days_in_a_month`](paiza/dateset/days_in_a_month)
+
