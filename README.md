@@ -398,3 +398,7 @@
 
 [`paiza/dateset/days_in_a_month`](paiza/dateset/days_in_a_month)
 
+* 次の日
+
+[`paiza/dateset/tomorrow`](paiza/dateset/tomorrow)
+
