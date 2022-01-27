@@ -402,3 +402,11 @@
 
 [`paiza/dateset/tomorrow`](paiza/dateset/tomorrow)
 
+
+## グラフ構造の入力メニュー 
+
+* 隣接行列の出力・無向グラフ
+
+[`paiza/graph_input_problems/adjacency_matrix_step1`](paiza/graph_input_problems/adjacency_matrix_step1)
+
+
