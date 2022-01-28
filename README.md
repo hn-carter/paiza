@@ -409,4 +409,7 @@
 
 [`paiza/graph_input_problems/adjacency_matrix_step1`](paiza/graph_input_problems/adjacency_matrix_step1)
 
+* 隣接行列の出力・有向グラフ
+
+[`paiza/graph_input_problems/adjacency_matrix_step2`](paiza/graph_input_problems/adjacency_matrix_step2)
 
