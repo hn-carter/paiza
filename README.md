@@ -413,3 +413,7 @@
 
 [`paiza/graph_input_problems/adjacency_matrix_step2`](paiza/graph_input_problems/adjacency_matrix_step2)
 
+* 隣接行列の入力・辺の個数
+
+[`paiza/graph_input_problems/adjacency_matrix_step3`](paiza/graph_input_problems/adjacency_matrix_step3)
+
