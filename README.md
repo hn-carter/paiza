@@ -417,3 +417,7 @@
 
 [`paiza/graph_input_problems/adjacency_matrix_step3`](paiza/graph_input_problems/adjacency_matrix_step3)
 
+* 隣接行列の入力・辺の存在判定
+
+[`paiza/graph_input_problems/adjacency_matrix_boss`](paiza/graph_input_problems/adjacency_matrix_boss)
+
