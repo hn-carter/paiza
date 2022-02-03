@@ -421,3 +421,7 @@
 
 [`paiza/graph_input_problems/adjacency_matrix_boss`](paiza/graph_input_problems/adjacency_matrix_boss)
 
+* 隣接リストの出力・無向グラフ
+
+[`paiza/graph_input_problems/adjacency_list_step1`](paiza/graph_input_problems/adjacency_list_step1)
+
