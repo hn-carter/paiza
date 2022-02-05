@@ -425,3 +425,7 @@
 
 [`paiza/graph_input_problems/adjacency_list_step1`](paiza/graph_input_problems/adjacency_list_step1)
 
+* 隣接リストの出力・有向グラフ
+
+[`paiza/graph_input_problems/adjacency_list_step2`](paiza/graph_input_problems/adjacency_list_step2)
+
