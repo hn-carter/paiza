@@ -433,3 +433,7 @@
 
 [`paiza/graph_input_problems/adjacency_list_boss`](paiza/graph_input_problems/adjacency_list_boss)
 
+* 自己ループ・無向グラフ
+
+[`paiza/graph_input_problems/loops_multiple_edges_step1`](paiza/graph_input_problems/loops_multiple_edges_step1)
+
