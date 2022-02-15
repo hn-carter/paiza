@@ -441,3 +441,7 @@
 
 [`paiza/graph_input_problems/loops_multiple_edges_step2`](paiza/graph_input_problems/loops_multiple_edges_step2)
 
+* 自己ループ・有向グラフ
+
+[`paiza/graph_input_problems/loops_multiple_edges_step3`](paiza/graph_input_problems/loops_multiple_edges_step3)
+
