@@ -449,3 +449,7 @@
 
 [`paiza/graph_input_problems/loops_multiple_edges_step4`](paiza/graph_input_problems/loops_multiple_edges_step4)
 
+* 自己ループ・有向グラフ (辺入力)
+
+[`paiza/graph_input_problems/loops_multiple_edges_step5`](paiza/graph_input_problems/loops_multiple_edges_step5)
+
