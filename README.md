@@ -453,3 +453,7 @@
 
 [`paiza/graph_input_problems/loops_multiple_edges_step5`](paiza/graph_input_problems/loops_multiple_edges_step5)
 
+* 多重辺・有向グラフ (辺入力)
+
+[`paiza/graph_input_problems/loops_multiple_edges_boss`](paiza/graph_input_problems/loops_multiple_edges_boss)
+
