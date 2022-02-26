@@ -457,3 +457,7 @@
 
 [`paiza/graph_input_problems/loops_multiple_edges_boss`](paiza/graph_input_problems/loops_multiple_edges_boss)
 
+* 頂点の出現回数・無向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step1/swift`](paiza/graph_input_problems/degree_euler_graph_step1/swift)
+
