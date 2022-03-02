@@ -459,5 +459,14 @@
 
 * 頂点の出現回数・無向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step1/swift`](paiza/graph_input_problems/degree_euler_graph_step1/swift)
+[`paiza/graph_input_problems/degree_euler_graph_step1`](paiza/graph_input_problems/degree_euler_graph_step1)
+
+* 次数・無向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step2`](paiza/graph_input_problems/degree_euler_graph_step2)
+
+* オイラーグラフ・無向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step3`](paiza/graph_input_problems/degree_euler_graph_step3)
+
 
