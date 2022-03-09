@@ -469,4 +469,7 @@
 
 [`paiza/graph_input_problems/degree_euler_graph_step3`](paiza/graph_input_problems/degree_euler_graph_step3)
 
+* 準オイラーグラフ・無向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step4`](paiza/graph_input_problems/degree_euler_graph_step4)
 
