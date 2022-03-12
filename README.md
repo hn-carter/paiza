@@ -473,3 +473,7 @@
 
 [`paiza/graph_input_problems/degree_euler_graph_step4`](paiza/graph_input_problems/degree_euler_graph_step4)
 
+* 頂点の出現回数・有向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step5`](paiza/graph_input_problems/degree_euler_graph_step5)
+
