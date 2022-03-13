@@ -477,3 +477,7 @@
 
 [`paiza/graph_input_problems/degree_euler_graph_step5`](paiza/graph_input_problems/degree_euler_graph_step5)
 
+* 入出次数・有向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step6`](paiza/graph_input_problems/degree_euler_graph_step6)
+
