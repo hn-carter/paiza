@@ -485,3 +485,7 @@
 
 [`paiza/graph_input_problems/degree_euler_graph_step7`](paiza/graph_input_problems/degree_euler_graph_step7)
 
+* 準オイラーグラフ・有向グラフ
+
+[`paiza/graph_input_problems/degree_euler_graph_step8`](paiza/graph_input_problems/degree_euler_graph_step8)
+
