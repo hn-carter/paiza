@@ -292,22 +292,22 @@
 [`paiza/a_rank_level_up_problems/pincerattack_boss`](a_rank_level_up_problems/pincerattack_boss)
 
 * 累積和の計算
-[`paiza/a_rank_level_up_problems/twopointers_step1`](paiza/a_rank_level_up_problems/twopointers_step1)
+[`paiza/a_rank_level_up_problems/twopointers_step1`](a_rank_level_up_problems/twopointers_step1)
 
 * 区間和の計算
-[`paiza/a_rank_level_up_problems/twopointers_step2`](paiza/a_rank_level_up_problems/twopointers_step2)
+[`paiza/a_rank_level_up_problems/twopointers_step2`](a_rank_level_up_problems/twopointers_step2)
 
 * 最短の区間
-[`paiza/a_rank_level_up_problems/twopointers_step3`](paiza/a_rank_level_up_problems/twopointers_step3)
+[`paiza/a_rank_level_up_problems/twopointers_step3`](a_rank_level_up_problems/twopointers_step3)
 
 * 最長の区間
-[`paiza/a_rank_level_up_problems/twopointers_step4`](paiza/a_rank_level_up_problems/twopointers_step4)
+[`paiza/a_rank_level_up_problems/twopointers_step4`](a_rank_level_up_problems/twopointers_step4)
 
 * 区間への足し算
-[`paiza/a_rank_level_up_problems/twopointers_step5`](paiza/a_rank_level_up_problems/twopointers_step5)
+[`paiza/a_rank_level_up_problems/twopointers_step5`](a_rank_level_up_problems/twopointers_step5)
 
 * 区間の積
-[`paiza/a_rank_level_up_problems/twopointers_boss`](paiza/a_rank_level_up_problems/twopointers_boss)
+[`paiza/a_rank_level_up_problems/twopointers_boss`](a_rank_level_up_problems/twopointers_boss)
 
 * 規則的な数列の和
 [`paiza/a_rank_level_up_problems/calculation_exchange_700`](a_rank_level_up_problems/calculation_exchange_700)
@@ -377,119 +377,119 @@
 
 * スタック・キュー実装編( 共通問題 ) step 1
 
-[`paiza/stack_queue/common_step1`](paiza/stack_queue/common_step1)
+[`paiza/stack_queue/common_step1`](stack_queue/common_step1)
 
 
 ## 日付セット
 
 * 閏年の判定
 
-[`paiza/dateset/leap_year`](paiza/dateset/leap_year)
+[`paiza/dateset/leap_year`](dateset/leap_year)
 
 * 西暦の和暦変換
 
-[`paiza/dateset/ad_to_era`](paiza/dateset/ad_to_era)
+[`paiza/dateset/ad_to_era`](dateset/ad_to_era)
 
 * 西暦の和暦変換2
 
-[`paiza/dateset/ad_to_era2`](paiza/dateset/ad_to_era2)
+[`paiza/dateset/ad_to_era2`](dateset/ad_to_era2)
 
 * 月の日数
 
-[`paiza/dateset/days_in_a_month`](paiza/dateset/days_in_a_month)
+[`paiza/dateset/days_in_a_month`](ateset/days_in_a_month)
 
 * 次の日
 
-[`paiza/dateset/tomorrow`](paiza/dateset/tomorrow)
+[`paiza/dateset/tomorrow`](dateset/tomorrow)
 
 
 ## グラフ構造の入力メニュー 
 
 * 隣接行列の出力・無向グラフ
 
-[`paiza/graph_input_problems/adjacency_matrix_step1`](paiza/graph_input_problems/adjacency_matrix_step1)
+[`paiza/graph_input_problems/adjacency_matrix_step1`](graph_input_problems/adjacency_matrix_step1)
 
 * 隣接行列の出力・有向グラフ
 
-[`paiza/graph_input_problems/adjacency_matrix_step2`](paiza/graph_input_problems/adjacency_matrix_step2)
+[`paiza/graph_input_problems/adjacency_matrix_step2`](graph_input_problems/adjacency_matrix_step2)
 
 * 隣接行列の入力・辺の個数
 
-[`paiza/graph_input_problems/adjacency_matrix_step3`](paiza/graph_input_problems/adjacency_matrix_step3)
+[`paiza/graph_input_problems/adjacency_matrix_step3`](graph_input_problems/adjacency_matrix_step3)
 
 * 隣接行列の入力・辺の存在判定
 
-[`paiza/graph_input_problems/adjacency_matrix_boss`](paiza/graph_input_problems/adjacency_matrix_boss)
+[`paiza/graph_input_problems/adjacency_matrix_boss`](graph_input_problems/adjacency_matrix_boss)
 
 * 隣接リストの出力・無向グラフ
 
-[`paiza/graph_input_problems/adjacency_list_step1`](paiza/graph_input_problems/adjacency_list_step1)
+[`paiza/graph_input_problems/adjacency_list_step1`](graph_input_problems/adjacency_list_step1)
 
 * 隣接リストの出力・有向グラフ
 
-[`paiza/graph_input_problems/adjacency_list_step2`](paiza/graph_input_problems/adjacency_list_step2)
+[`paiza/graph_input_problems/adjacency_list_step2`](graph_input_problems/adjacency_list_step2)
 
 * 隣接リストの出力・有向グラフ
 
-[`paiza/graph_input_problems/adjacency_list_boss`](paiza/graph_input_problems/adjacency_list_boss)
+[`paiza/graph_input_problems/adjacency_list_boss`](graph_input_problems/adjacency_list_boss)
 
 * 自己ループ・無向グラフ
 
-[`paiza/graph_input_problems/loops_multiple_edges_step1`](paiza/graph_input_problems/loops_multiple_edges_step1)
+[`paiza/graph_input_problems/loops_multiple_edges_step1`](graph_input_problems/loops_multiple_edges_step1)
 
 * 多重辺・無向グラフ
 
-[`paiza/graph_input_problems/loops_multiple_edges_step2`](paiza/graph_input_problems/loops_multiple_edges_step2)
+[`paiza/graph_input_problems/loops_multiple_edges_step2`](graph_input_problems/loops_multiple_edges_step2)
 
 * 自己ループ・有向グラフ
 
-[`paiza/graph_input_problems/loops_multiple_edges_step3`](paiza/graph_input_problems/loops_multiple_edges_step3)
+[`paiza/graph_input_problems/loops_multiple_edges_step3`](graph_input_problems/loops_multiple_edges_step3)
 
 * 多重辺・有向グラフ
 
-[`paiza/graph_input_problems/loops_multiple_edges_step4`](paiza/graph_input_problems/loops_multiple_edges_step4)
+[`paiza/graph_input_problems/loops_multiple_edges_step4`](graph_input_problems/loops_multiple_edges_step4)
 
 * 自己ループ・有向グラフ (辺入力)
 
-[`paiza/graph_input_problems/loops_multiple_edges_step5`](paiza/graph_input_problems/loops_multiple_edges_step5)
+[`paiza/graph_input_problems/loops_multiple_edges_step5`](graph_input_problems/loops_multiple_edges_step5)
 
 * 多重辺・有向グラフ (辺入力)
 
-[`paiza/graph_input_problems/loops_multiple_edges_boss`](paiza/graph_input_problems/loops_multiple_edges_boss)
+[`paiza/graph_input_problems/loops_multiple_edges_boss`](graph_input_problems/loops_multiple_edges_boss)
 
 * 頂点の出現回数・無向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step1`](paiza/graph_input_problems/degree_euler_graph_step1)
+[`paiza/graph_input_problems/degree_euler_graph_step1`](graph_input_problems/degree_euler_graph_step1)
 
 * 次数・無向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step2`](paiza/graph_input_problems/degree_euler_graph_step2)
+[`paiza/graph_input_problems/degree_euler_graph_step2`](graph_input_problems/degree_euler_graph_step2)
 
 * オイラーグラフ・無向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step3`](paiza/graph_input_problems/degree_euler_graph_step3)
+[`paiza/graph_input_problems/degree_euler_graph_step3`](graph_input_problems/degree_euler_graph_step3)
 
 * 準オイラーグラフ・無向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step4`](paiza/graph_input_problems/degree_euler_graph_step4)
+[`paiza/graph_input_problems/degree_euler_graph_step4`](graph_input_problems/degree_euler_graph_step4)
 
 * 頂点の出現回数・有向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step5`](paiza/graph_input_problems/degree_euler_graph_step5)
+[`paiza/graph_input_problems/degree_euler_graph_step5`](graph_input_problems/degree_euler_graph_step5)
 
 * 入出次数・有向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step6`](paiza/graph_input_problems/degree_euler_graph_step6)
+[`paiza/graph_input_problems/degree_euler_graph_step6`](graph_input_problems/degree_euler_graph_step6)
 
 * オイラーグラフ・有向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step7`](paiza/graph_input_problems/degree_euler_graph_step7)
+[`paiza/graph_input_problems/degree_euler_graph_step7`](graph_input_problems/degree_euler_graph_step7)
 
 * 準オイラーグラフ・有向グラフ
 
-[`paiza/graph_input_problems/degree_euler_graph_step8`](paiza/graph_input_problems/degree_euler_graph_step8)
+[`paiza/graph_input_problems/degree_euler_graph_step8`](graph_input_problems/degree_euler_graph_step8)
 
 * しりとり
 
-[`paiza/graph_input_problems/degree_euler_graph_boss`](paiza/graph_input_problems/degree_euler_graph_boss)
+[`paiza/graph_input_problems/degree_euler_graph_boss`](graph_input_problems/degree_euler_graph_boss)
 
