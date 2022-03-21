@@ -489,3 +489,7 @@
 
 [`paiza/graph_input_problems/degree_euler_graph_step8`](paiza/graph_input_problems/degree_euler_graph_step8)
 
+* しりとり
+
+[`paiza/graph_input_problems/degree_euler_graph_boss`](paiza/graph_input_problems/degree_euler_graph_boss)
+
