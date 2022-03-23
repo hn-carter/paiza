@@ -493,3 +493,10 @@
 
 [`paiza/graph_input_problems/degree_euler_graph_boss`](graph_input_problems/degree_euler_graph_boss)
 
+
+## 木のメニュー  
+
+* 木の入力の受け取り（隣接行列）
+
+[`paiza/tree_primer/adjacency_matrix_input`](tree_primer/adjacency_matrix_input)
+
