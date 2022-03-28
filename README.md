@@ -498,5 +498,9 @@
 
 * 木の入力の受け取り（隣接行列）
 
-[`paiza/tree_primer/adjacency_matrix_input`](tree_primer/adjacency_matrix_input)
+[`paiza/tree_primer/adjacency_matrix`](tree_primer/adjacency_matrix)
+
+* 木の入力の受け取り（隣接リスト）
+
+[`paiza/tree_primer/adjacency_list_input`](tree_primer/adjacency_list_input)
 
