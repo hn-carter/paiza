@@ -1,6 +1,6 @@
 ﻿/*
-これはpaizaラーニングの問題集にある「グリッド版ダイクストラ問題セット」-「問題1: 幅優先探索 - 迷路 (hard)」
-https://paiza.jp/works/mondai/grid_dijkstra/grid_dijkstra__d2h
+これはpaizaラーニングの問題集にある「グリッド版ダイクストラ問題セット」-「問題2: ダイクストラ法 - 最短経路のコスト」
+https://paiza.jp/works/mondai/grid_dijkstra/grid_dijkstra__d2
 にC#でチャレンジしたコードです。
 作成環境
 Windows 10 Pro
@@ -150,11 +150,6 @@ class Board
             {
                 return st.Cost;
             }
-            // 移動先が壁なら処理スキップ
-            if (IsWall(st))
-            {
-                continue;
-            }
             // 移動先がすでにチェック済みのマスなら処理スキップ
             if (closed.Contains(st))
             {
@@ -185,16 +180,6 @@ class Board
             return cell[p.Y, p.X];
         }
         return -1;
-    }
-
-    // 渡された座標が壁か判定
-    public bool IsWall(Position p)
-    {
-        if (IsWithinRange(p))
-        {
-            return (cell[p.Y, p.X] == 1);
-        }
-        return true;
     }
 
     // 渡された座標が範囲内か判定
