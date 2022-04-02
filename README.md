@@ -504,3 +504,7 @@
 
 [`paiza/tree_primer/adjacency_list_input`](tree_primer/adjacency_list_input)
 
+* 辺の有無の判定
+
+[`paiza/tree_primer/edge_search`](tree_primer/edge_search)
+
