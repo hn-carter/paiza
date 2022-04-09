@@ -508,3 +508,7 @@
 
 [`paiza/tree_primer/edge_search`](tree_primer/edge_search)
 
+* 葉の判定
+
+[`paiza/tree_primer/find_leaf`](tree_primer/find_leaf)
+
