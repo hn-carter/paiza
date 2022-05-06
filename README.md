@@ -512,3 +512,7 @@
 
 [`paiza/tree_primer/find_leaf`](tree_primer/find_leaf)
 
+* 木の中心
+
+[`paiza/tree_primer/center_of_tree`](tree_primer/center_of_tree)
+
