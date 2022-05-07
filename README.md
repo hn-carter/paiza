@@ -516,3 +516,7 @@
 
 [`paiza/tree_primer/center_of_tree`](tree_primer/center_of_tree)
 
+* 三角形を作る
+
+[`paiza/tree_primer/make_triangles`](tree_primer/make_triangles)
+
