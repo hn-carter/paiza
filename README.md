@@ -520,3 +520,7 @@
 
 [`paiza/tree_primer/make_triangles`](tree_primer/make_triangles)
 
+* 子の頂点
+
+[`paiza/tree_primer/rooted_tree_child`](tree_primer/rooted_tree_child)
+
