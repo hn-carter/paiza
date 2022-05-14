@@ -524,3 +524,7 @@
 
 [`paiza/tree_primer/rooted_tree_child`](tree_primer/rooted_tree_child)
 
+* 親の頂点
+
+[`paiza/tree_primer/rooted_tree_parent`](tree_primer/rooted_tree_parent)
+
