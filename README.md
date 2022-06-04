@@ -528,3 +528,7 @@
 
 [`paiza/tree_primer/rooted_tree_parent`](tree_primer/rooted_tree_parent)
 
+* ヒープの判定
+
+[`paiza/tree_primer/heap_judge`](tree_primer/heap_judge)
+
