@@ -532,3 +532,7 @@
 
 [`paiza/tree_primer/heap_judge`](tree_primer/heap_judge)
 
+* 頂点の高さ
+
+[`paiza/tree_primer/vertex_height`](tree_primer/vertex_height)
+
