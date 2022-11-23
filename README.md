@@ -536,3 +536,7 @@
 
 [`paiza/tree_primer/vertex_height`](tree_primer/vertex_height)
 
+* 山登り
+
+[`paiza/tree_primer/mountain_climbing`](tree_primer/mountain_climbing)
+
