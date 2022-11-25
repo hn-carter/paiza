@@ -540,3 +540,7 @@
 
 [`paiza/tree_primer/mountain_climbing`](tree_primer/mountain_climbing)
 
+* 子の頂点
+
+[`paiza/tree_primer/binary_tree_child`](tree_primer/binary_tree_child)
+
