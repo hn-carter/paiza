@@ -544,3 +544,7 @@
 
 [`paiza/tree_primer/binary_tree_child`](tree_primer/binary_tree_child)
 
+* 子の頂点2
+
+[`paiza/tree_primer/over_ternary_tree_child`](tree_primer/over_ternary_tree_child)
+
