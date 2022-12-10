@@ -548,3 +548,7 @@
 
 [`paiza/tree_primer/over_ternary_tree_child`](tree_primer/over_ternary_tree_child)
 
+* 完全二分木の管理
+
+[`paiza/tree_primer/binary_tree_array`](tree_primer/binary_tree_array)
+
