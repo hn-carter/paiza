@@ -552,3 +552,7 @@
 
 [`paiza/tree_primer/binary_tree_array`](tree_primer/binary_tree_array)
 
+* 二分探索木の判定
+
+[`paiza/tree_primer/binary_search_tree_judge`](tree_primer/binary_search_tree_judge)
+
