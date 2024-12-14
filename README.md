@@ -556,3 +556,7 @@
 
 [`paiza/tree_primer/binary_search_tree_judge`](tree_primer/binary_search_tree_judge)
 
+## ハッシュメニュー応用編  
+
+* ナンバープレートのハッシュ値
+[`paiza/hash_advanced/01_number_plate`](hash_advanced/01_number_plate)
