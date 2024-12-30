@@ -560,3 +560,7 @@
 
 * ナンバープレートのハッシュ値
 [`paiza/hash_advanced/01_number_plate`](hash_advanced/01_number_plate)
+
+* 画像のハッシュ値
+[`paiza/hash_advanced/02_picture`](hash_advanced/02_picture)
+
