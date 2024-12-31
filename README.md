@@ -567,3 +567,6 @@
 * ハッシュテーブルの衝突
 [`paiza/hash_advanced/03_collision`](hash_advanced/03_collision)
 
+* ハッシュテーブルを使おう（チェイン法）
+[`paiza/hash_advanced/04_chain`](hash_advanced/04_chain)
+
