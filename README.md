@@ -564,3 +564,6 @@
 * 画像のハッシュ値
 [`paiza/hash_advanced/02_picture`](hash_advanced/02_picture)
 
+* ハッシュテーブルの衝突
+[`paiza/hash_advanced/03_collision`](hash_advanced/03_collision)
+
