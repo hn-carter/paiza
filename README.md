@@ -570,3 +570,6 @@
 * ハッシュテーブルを使おう（チェイン法）
 [`paiza/hash_advanced/04_chain`](hash_advanced/04_chain)
 
+* ハッシュテーブルを使おう（オープンアドレス法）
+[`paiza/hash_advanced/05_open`](hash_advanced/05_open)
+
