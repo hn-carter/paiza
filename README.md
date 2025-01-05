@@ -573,3 +573,6 @@
 * ハッシュテーブルを使おう（オープンアドレス法）
 [`paiza/hash_advanced/05_open`](hash_advanced/05_open)
 
+* 2 次元のハッシュテーブルを使おう
+[`paiza/hash_advanced/06_two_dimention`](hash_advanced/06_two_dimention)
+
