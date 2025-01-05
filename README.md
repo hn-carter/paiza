@@ -576,3 +576,6 @@
 * 2 次元のハッシュテーブルを使おう
 [`paiza/hash_advanced/06_two_dimention`](hash_advanced/06_two_dimention)
 
+* 最小完全ハッシュ関数を作ろう
+[`paiza/hash_advanced/07_minimum_complete`](hash_advanced/07_minimum_complete)
+
