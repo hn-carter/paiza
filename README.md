@@ -579,3 +579,6 @@
 * 最小完全ハッシュ関数を作ろう
 [`paiza/hash_advanced/07_minimum_complete`](hash_advanced/07_minimum_complete)
 
+* 最小完全ハッシュ関数を作ろう
+[`paiza/hash_advanced/08_certification`](hash_advanced/08_certification)
+
